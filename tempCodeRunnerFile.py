@@ -1,0 +1,1 @@
+dotenv_path = "".join(dirname(__file__), '.env')
